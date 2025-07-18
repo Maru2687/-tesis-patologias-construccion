@@ -16,6 +16,7 @@ Todo esto pensando en cómo mejorar la calidad constructiva desde el arranque de
 ## 📄 Archivo
 
 🧾 [Descargar la tesis en PDF](./tesis-marina-godoy.pdf)
+https://deepnote.com/workspace/Trabajos-685ac8ea-1125-4d3a-a500-4c4574bd5a39/project/Trabajo-Integrador-Marina-Godoy-eeade3a6-f481-4da4-bfa3-a573c35466d8/notebook/743fa2208fd745ffa33a6c66990c1515
 
 ## Tecnologías que usé
 
